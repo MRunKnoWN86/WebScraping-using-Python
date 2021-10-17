@@ -1,2 +1,2 @@
 # WebScraping-using-Python
-WebScraping  being done on FIFA players using Beautifulsoup ....Hope you like it.
+WebScraping using Beautifulsoup is applied on FIFA players with url = "'https://sofifa.com/players?offset=0" ....Hope you like it.
